@@ -5,11 +5,11 @@ void main() {
 
   // Variables
 
-  var name = "Budiono Siregar";
-  var age = 12;
+  var name = "Pak Vincent";
+  var age = 2;
   var height = 1.75;
-  var dream = "Kapal Lawd";
-  var isStudent = true;
+  var dream = "orang dua";
+  var duaorang = true;
 
   print(name);
   print(dream);
@@ -18,33 +18,9 @@ void main() {
 
   //  If Else Statement
 
-  if (isStudent) {
-    print("Perkenalkan nama saya $name Cita Cita adalah $dream");
+  if (duaorang) {
+    print("Dua lah $name ,saya kan $dream");
   } else {
-    print("Budiono Bukan Kapal Lawd");
-  }
-
-  // Switch Case Statement
-
-  var nilai = "A";
-
-  switch (nilai) {
-    case "A":
-      print("Sangat Baik");
-      break;
-    case "B":
-      print("Baik");
-      break;
-    case "C":
-      print("Cukup");
-      break;
-    case "D":
-      print("Kurang");
-      break;
-    case "E":
-      print("Sangat Kurang");
-      break;
-    default:
-      print("Nilai Tidak Ditemukan");
+    print("saya orang satu");
   }
 }
