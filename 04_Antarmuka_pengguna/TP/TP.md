@@ -28,6 +28,24 @@ Yudha Islami Sulistya, S.Kom., M.Cs.
 
 ---
 
+# TUGAS PENDAHULUAN
+## A. SOAL NOMOR 1
+Buatlah tampilan aplikasi sederhana dalam flutter yang menampilkan deskripsi rekomendasi tempat wisata dengan mengimplementasikan widget dasar
+Detail Tugas:
+• AppBar: Buatlah sebuah AppBar dengan judul "Rekomendasi Wisata".
+• Text: Di tengah layar, tambahkan widget Text dengan pesan "Nama Tempat Wisata".
+• Image: Tambahkan gambar dari internet di bawah teks tersebut menggunakan widget Image.network.
+• Text: Dibawah gambar, tambahkan deskripsi dari tempat wisata
+• Button: Tambahkan tombol di bawah gambar dengan label "Kunjungi Tempat".
+
+## Contoh Output
+
+![image](https://github.com/user-attachments/assets/78d2c84a-0d88-4ccf-9fb1-59e724f87fa7)
+
+---
+
+## Source code :
+
 ```markdown
 
 import 'package:flutter/material.dart';
@@ -96,3 +114,13 @@ child: const Text('Kunjungi Sekarang'), ),
   
 
 ```
+
+## Output :
+
+
+![image](https://github.com/user-attachments/assets/04789272-116e-400c-9f4e-52ecb4dde42a)
+
+### Deskripsi Program
+Aplikasi flutter diatas akan menjalankan MyApp, MyApp adalah stateless widget yang mengonfigurasi MaterialApp dengan Material 3, lalu widget MyHomePage adalah statefull widget yang berisi judul, lalu di Scaffold, ada AppBar dengan judul posisi ditengah, lalu body terdapat widget Center yang membuat konten berada di tengah secara vertical menggunakan Column, di sini ada sebuah teks “Baturaden”, sebuah gambar, deskripsi wisata, dan tombol “Kunjungi Sekarang”.
+
+
