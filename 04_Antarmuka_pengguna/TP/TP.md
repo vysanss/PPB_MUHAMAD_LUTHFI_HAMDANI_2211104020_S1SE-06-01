@@ -46,7 +46,7 @@ Detail Tugas:
 
 ## Source code :
 
-```markdown
+```
 
 import 'package:flutter/material.dart';
 void main() {
