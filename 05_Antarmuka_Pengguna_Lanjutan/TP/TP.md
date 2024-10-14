@@ -131,3 +131,13 @@ class _MyHomePageState extends State<MyHomePage> {
 ## Output :
 
 ![image](https://github.com/user-attachments/assets/d3481c63-03d2-422e-aeef-81261892aa89)
+
+## Deskripsi :
+
+Aplikasi yang saya buat adalah  aplikasi Flutter yang menggunakan komponen ListView untuk menampilkan daftar tempat wisata terkenal di dunia.
+ Halaman utama berisi daftar tujuan wisata seperti Menara Eiffel, Tembok Besar Cina, Machu Picchu, Grand Canyon, dan Colosseum, dibuat dari data format daftar yang mencakup informasi nama, deskripsi, dan foto masing-masing.
+ lokasi.
+ Gambar  setiap tujuan diambil secara online menggunakan Image.network dan ditampilkan di atas deskripsi singkat lokasi tersebut.
+ Aplikasi ini menggunakan kartu untuk mengemas gambar dan informasi target, menciptakan tampilan bersih yang  mudah diakses oleh pengguna.
+ Aplikasi ini juga menggunakan Material 3, tema warna berbasis  ungu tua sehingga memberikan tampilan  modern dan menarik.
+
