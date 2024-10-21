@@ -11,7 +11,7 @@ INTERAKSI PENGGUNA<br>
 <br>
 
 Disusun Oleh: <br>
-Muhamad Luthfi Hamdani/2211104021 <br>
+Muhamad Luthfi Hamdani/2211104020 <br>
 SE-06-01 <br>
 
 <br>
