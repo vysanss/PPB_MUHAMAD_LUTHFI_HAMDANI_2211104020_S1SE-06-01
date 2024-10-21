@@ -128,7 +128,9 @@ class _MyHomePageState extends State<MyHomePage> {
 }
 ```
 ## Screenshot Output: <br>
-
+![image](https://github.com/user-attachments/assets/22597cfe-9e78-4316-b62e-5312a118d4ac)
+![image](https://github.com/user-attachments/assets/7f233a41-0f1f-4bb3-ba64-476799899f6a)
+![image](https://github.com/user-attachments/assets/17740e40-3a6e-41e6-a97d-573b3cb5e94d)
 
 ## Deskripsi
 Aplikasi sederhana ini dibuat dengan tiga halaman utama: Home, Wisata, dan Profile, yang bisa dipilih menggunakan bottom navigation bar di bagian bawah layar. Ketika aplikasi dibuka, halaman Home muncul sebagai halaman awal. Pengguna bisa berpindah halaman dengan mengetuk ikon di navigation bar tersebut. Misalnya, jika pengguna mengetuk ikon "Wisata", halaman akan berubah untuk menampilkan teks "Ini Halaman Wisata".
